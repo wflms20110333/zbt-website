@@ -31,7 +31,7 @@ export default function ({}) {
       <div>
         <Splash id="rush" imageUrl={CoverImg}></Splash>
         <div className="contents typography">
-          <h1>Rush ZBT this fall! (2023)</h1>
+          <h1>Rush ZBT this fall! (2024)</h1>
           <WithBoringTextOnSide>
             <Schedule />
           </WithBoringTextOnSide>
@@ -152,104 +152,86 @@ function parseText() {
   });
 }
 
-const text = `Title: Raising Canes and Outdoor Games
-Time: Saturday, September 2, 1:00pm - 4:00pm
+const text = `Title: Canes and Outdoor Games
+Time: Saturday, August 31, 1:00pm - 4:00pm
 Location: Briggs Field
 Description:
 Come to Briggs Field for Cane's chicken and have a ball playing of spikeball, soccer, ultimate, football, and more! Vegetarian options available.
 
-Title: ZBT Sushi Night
-Time: Saturday, September 2, 5:00pm - 7:00pm
+Title: Sushi and Poker
+Time: Saturday, August 31, 5:00pm - 8:00pm
 Location: Walker Memorial
 Description:
-Sushi Dinner! Come meet the brothers of ZBT and stay for our poker tournament where we'll give out over $1000 in prizes.
-
-Title: ZBT Poker Night
-Time: Saturday, September 2, 7:00pm - 10:00am
-Location: Walker Memorial
-Description:
-Come join the brothers of ZBT for our signature poker night where we'll give out over $1000 in prizes, including airpods, a nintendo switch, and gift cards! All skill levels welcome; we'll teach you how to play.
+Sushi Dinner! Come meet the brothers of ZBT and stay for our poker tournament where we'll give out over $1000 in prizes, including airpods, a nintendo switch, and gift cards! All skill levels welcome; we'll teach you how to play.
 
 Title: Paintball
-Time: Sunday, September 3, 11:00am - 4:00pm
+Time: Sunday, September 1, 10:15am - 4:00pm
 Location: Action Games Paintball
 Description:
 Come play paintball with the brothers of ZBT! Meet outside Maseeh or call us at (857) 576-4928 for your ride!
 
-Title: House Tours + Dinner
-Time: Sunday, September 3, 5:00pm - 8:00pm
+Title: Thai Food and House Tours
+Time: Sunday, September 1, 5:00pm - 7:30pm
 Location: ZBT House
 Description: 
 Meet the brothers, tour the ZBT house, and enjoy some of Boston's best thai food. Meet outside Maseeh or text (857) 576-4928 for your ride!
 
 Title: Minigolf
-Time: Sunday, September 3, 8:00pm - 10:00pm
+Time: Sunday, September 1, 7:30pm - 10:00pm
 Location: McGolf
 Description: 
 Come play minigolf with the brothers of ZBT. For rides, call us at (857) 576-4928!
 
-Title: K1 Speed Go-karts
-Time: Monday, September 4, 2:00pm - 6:00pm
+Title: Go Karting
+Time: Monday, September 2, 1:00pm - 5:00pm
 Location: K1 Speed
 Description:
 Join the brothers of ZBT for our rendition of Fast and Furious! Call (857) 576-4928 for a ride!
 
-Title: Bonchon Dinner (Korean Fried Chicken)
-Time: Monday, September 4, 5:00pm - 7:00pm
-Location: ZBT House
-Description:
-Come join ZBT for some delicious bonchon chicken and good times. Vegetarian options available! Call us at (857) 576-4928 for rides.
-
-Title: Bowling
-Time: Monday, September 4, 7:00pm - 10:00pm
+Title: Bowling and Arcade
+Time: Monday, September 2, 5:15pm - 8:45pm
 Location: Kings Dining & Entertainment
 Description:
 Have some spare time? Come bowl with the brothers of ZBT! Whether you strike it lucky or end up in the gutter, it’ll be a great time! Need a ride? Call us at (857) 576-4928!
 
 Title: Late Night IHOP
-Time: Monday, September 4, 10:00pm - 12:00am
+Time: Monday, September 2, 8:45pm - 11:00am
 Location: IHOP
 Description:
 Up late? Hungry from bowling? Join ZBT in eating America’s best pancakes at a late-night run to IHOP. We will be providing transportation from campus to IHOP and from bowling directly to IHOP as well. Call (857) 576-4928 for a ride.
 
-Title: Rock Climbing*
-Time: Tuesday, September 5, 12:00pm - 2:30pm
-Location: Central Rock Gym
+Title: Battle Canoes
+Time: Tuesday, September 3, 2:00pm - 5:15pm
+Location: Meet at Kresge Turnaround
 Description:
-Come boulder with the brothers of ZBT. Call (857) 576-4928 for rides.
+This is SPARTA!! Actually, it’s just the Charles river. Wanna get soaked in the river just for the fun of it? Wanna throw some water balloons at people because why not? Come to ZBT Battle Canoeing! We will be renting boats to go on the Charles. Life jackets will be available and your electronics will be taken care of.
 
-Title: Trampoline Dodgeball*
-Time: Tuesday, September 5, 2:30pm - 5:00pm
-Location: Get Air Trampoline Park
-Description:
-Hop around with the brothers of ZBT and take your shot at showing off your best stunts! Call (857) 576-4928 for a ride!
-
-Title: House Dinner*
-Time: Tuesday, September 5, 5:30pm - 8:00pm
+Title: Mediteranean Dinner*
+Time: Tuesday, September 3, 5:15pm - 7:30pm
 Location: ZBT House
 Description:
 Mediteranean dinner with the brothers of ZBT!
 
 Title: Level 99*
-Time: Tuesday, September 5, 8:00pm - 10:00pm
+Time: Tuesday, September 3, 8:00pm - 10:00pm
 Location: Level99
 Description:
 A night of mental puzzles, physical challenges, and crushing your friends in competitions!
 
-Title: Escape the Room*
-Time: Wednesday, September 6, 5:30pm - 8:00pm
-Location: Escape the Room Boston
+Title: Rock Climbing*
+Time: Wednesday, September 4, 5:00pm - 7:30pm
+Location: Central Rock Gym
 Description:
-Using only your wits and your friends, can you break free in under an hour? We’ll meet on campus and then head out to Escape the Room Boston. Those who make it out will be driven back to MIT; those left inside may never be seen again. What will your fate be? Call ZBT for rides at (857) 576-4928.
+Come boulder with the brothers of ZBT. Call (857) 576-4928 for rides.
 
-Title: Sushi Dinner*
-Time: Wednesday, September 6, 8:00pm - 10:00pm
-Location: Yamato II
+Title: Fried Chicken Dinner*
+Time: Wednesday, September 4, 7:30pm - 10:00pm
+Location: ZBT House
 Description:
-Come to Yamatos for some all you can eat Sushi! Vegetarian options available.
+Come join ZBT for some delicious bonchon chicken and good times. Vegetarian options available! Call us at (857) 576-4928 for rides.
 
-Title: Boat Cruise*
-Time: Thursday, September 7, 6:00pm - 10:00pm
+Title: Sunset Boat Cruise*
+Time: Thursday, September 5, 5:00pm - 9:00pm
 Location: Odyssey Boston
 Description:
 Enjoy a sunset boat cruise over the Charles River! Food will be provided.
