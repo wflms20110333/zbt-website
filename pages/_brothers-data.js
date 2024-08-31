@@ -18,10 +18,9 @@ import raymondPan from '../static/BetaSigma/Raymond Pan.jpg';
 import richardChen from '../static/BetaSigma/Richard Chen.JPG';
 import sunwooLee from '../static/BetaSigma/Sunwoo Lee.JPG';
 import veerGadodia from '../static/BetaSigma/Veer Gadodia.JPG';
-import andrewDiaz from '../static/BetaSigma/Andrew Diaz.JPG';
 import adrianYordanav from '../static/BetaTau/Adrian Yordanov.jpg';
 import advayGoel from '../static/BetaTau/Advay Goel.jpg';
-import andrewWen from '../static/BetaTau/Andrew Wen.webp';
+import andrewWen from '../static/BetaTau/Andrew-Wen.jpg';
 import benjaminFan from '../static/BetaTau/Benjamin Fan.jpg';
 import bradyCruse from '../static/BetaTau/Brady Cruse.jpg';
 import canyonNeyman from '../static/BetaTau/Canyon Neyman.jpg';
@@ -33,7 +32,7 @@ import naiAbbeyquaye from '../static/BetaTau/Nai Abbeyquaye.jpg';
 import pranavBala from '../static/BetaTau/Pranav Bala.jpg';
 import shreyasShrivastava from '../static/BetaTau/Shreyas Shrivastava.jpg';
 import stephenLee from '../static/BetaTau/Stephen Lee.jpg';
-import yusufYoung from '../static/BetaTau/Yusuf Young.jpg';
+import yusufYoung from '../static/BetaTau/Yusuf-Young.jpg';
 
 module.exports = [
   {
