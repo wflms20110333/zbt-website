@@ -1249,8 +1249,7 @@ module.exports = [
     classid: "BetaRho",
     name: "Naail Lakhani",
     bio: "N/A",
-    imgurl:
-      "https://zbt-website.s3.amazonaws.com/brothers-beta-rho/Naail+Lakhani.jpeg",
+    imgurl: naailLakhani,
   },
   {
     classname: "Beta Rho - Class of 2025",
