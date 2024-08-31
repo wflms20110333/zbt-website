@@ -168,37 +168,37 @@ Title: Paintball
 Time: Sunday, September 1, 10:15am - 4:00pm
 Location: Action Games Paintball
 Description:
-Come play paintball with the brothers of ZBT! Meet outside Maseeh or call us at (857) 576-4928 for your ride!
+Come play paintball with the brothers of ZBT! Meet outside Maseeh or call us at (857) 327-8936 for your ride!
 
 Title: Thai Food and House Tours
 Time: Sunday, September 1, 5:00pm - 7:30pm
 Location: ZBT House
 Description: 
-Meet the brothers, tour the ZBT house, and enjoy some of Boston's best thai food. Meet outside Maseeh or text (857) 576-4928 for your ride!
+Meet the brothers, tour the ZBT house, and enjoy some of Boston's best thai food. Meet outside Maseeh or text (857) 327-8936 for your ride!
 
 Title: Minigolf
 Time: Sunday, September 1, 7:30pm - 10:00pm
 Location: McGolf
 Description: 
-Come play minigolf with the brothers of ZBT. For rides, call us at (857) 576-4928!
+Come play minigolf with the brothers of ZBT. For rides, call us at (857) 327-8936!
 
 Title: Go Karting
 Time: Monday, September 2, 1:00pm - 5:00pm
 Location: K1 Speed
 Description:
-Join the brothers of ZBT for our rendition of Fast and Furious! Call (857) 576-4928 for a ride!
+Join the brothers of ZBT for our rendition of Fast and Furious! Call (857) 327-8936 for a ride!
 
 Title: Bowling and Arcade
 Time: Monday, September 2, 5:15pm - 8:45pm
 Location: Kings Dining & Entertainment
 Description:
-Have some spare time? Come bowl with the brothers of ZBT! Whether you strike it lucky or end up in the gutter, it’ll be a great time! Need a ride? Call us at (857) 576-4928!
+Have some spare time? Come bowl with the brothers of ZBT! Whether you strike it lucky or end up in the gutter, it’ll be a great time! Need a ride? Call us at (857) 327-8936!
 
 Title: Late Night IHOP
 Time: Monday, September 2, 8:45pm - 11:00am
 Location: IHOP
 Description:
-Up late? Hungry from bowling? Join ZBT in eating America’s best pancakes at a late-night run to IHOP. We will be providing transportation from campus to IHOP and from bowling directly to IHOP as well. Call (857) 576-4928 for a ride.
+Up late? Hungry from bowling? Join ZBT in eating America’s best pancakes at a late-night run to IHOP. We will be providing transportation from campus to IHOP and from bowling directly to IHOP as well. Call (857) 327-8936 for a ride.
 
 Title: Battle Canoes
 Time: Tuesday, September 3, 2:00pm - 5:15pm
@@ -222,13 +222,13 @@ Title: Rock Climbing*
 Time: Wednesday, September 4, 5:00pm - 7:30pm
 Location: Central Rock Gym
 Description:
-Come boulder with the brothers of ZBT. Call (857) 576-4928 for rides.
+Come boulder with the brothers of ZBT. Call (857) 327-8936 for rides.
 
 Title: Fried Chicken Dinner*
 Time: Wednesday, September 4, 7:30pm - 10:00pm
 Location: ZBT House
 Description:
-Come join ZBT for some delicious bonchon chicken and good times. Vegetarian options available! Call us at (857) 576-4928 for rides.
+Come join ZBT for some delicious bonchon chicken and good times. Vegetarian options available! Call us at (857) 327-8936 for rides.
 
 Title: Sunset Boat Cruise*
 Time: Thursday, September 5, 5:00pm - 9:00pm

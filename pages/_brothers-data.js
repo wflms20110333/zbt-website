@@ -1,5 +1,39 @@
 import alvinChen from '../static/BetaRho/Alvin Chen.jpg';
-
+import brandonLei from '../static/BetaRho/Brandon Lei.jpg';
+import ericLiu from '../static/BetaRho/Eric Liu.jpg';
+import evanRen from '../static/BetaRho/Evan Ren.jpg';
+import naailLakhani from '../static/BetaRho/Naail Lakhani.JPG';
+import nakulShenoy from '../static/BetaRho/Nakul Shenoy.JPG';
+import vishaalRam from '../static/BetaRho/Vishaal Ram.jpg';
+import vittalThirumalai from '../static/BetaRho/Vittal Thirumalai.png';
+import andrewDiaz from '../static/BetaSigma/Andrew Diaz.JPG';
+import christianFletcher from '../static/BetaSigma/Christian Fletcher.JPG';
+import danielGuan from '../static/BetaSigma/Daniel Guan.JPG';
+import danielXu from '../static/BetaSigma/Daniel Xu.jpg';
+import deepuPradeep from '../static/BetaSigma/Deepu Pradeep.JPG';
+import frankLiu from '../static/BetaSigma/Frank Liu.jpg';
+import greycenRen from '../static/BetaSigma/Greycen Ren.jpg';
+import jeremyYu from '../static/BetaSigma/Jeremy Yu.JPG';
+import raymondPan from '../static/BetaSigma/Raymond Pan.jpg';
+import richardChen from '../static/BetaSigma/Richard Chen.JPG';
+import sunwooLee from '../static/BetaSigma/Sunwoo Lee.JPG';
+import veerGadodia from '../static/BetaSigma/Veer Gadodia.JPG';
+import andrewDiaz from '../static/BetaSigma/Andrew Diaz.JPG';
+import adrianYordanav from '../static/BetaTau/Adrian Yordanov.jpg';
+import advayGoel from '../static/BetaTau/Advay Goel.jpg';
+import andrewWen from '../static/BetaTau/Andrew Wen.webp';
+import benjaminFan from '../static/BetaTau/Benjamin Fan.jpg';
+import bradyCruse from '../static/BetaTau/Brady Cruse.jpg';
+import canyonNeyman from '../static/BetaTau/Canyon Neyman.jpg';
+import dylanYu from '../static/BetaTau/Dylan Yu.jpg';
+import eddieQiao from '../static/BetaTau/Eddie Qiao.jpg';
+import eliPark from '../static/BetaTau/Eli Park.jpg';
+import jackBreckling from '../static/BetaTau/Jack  Breckling.jpg';
+import naiAbbeyquaye from '../static/BetaTau/Nai Abbeyquaye.jpg';
+import pranavBala from '../static/BetaTau/Pranav Bala.jpg';
+import shreyasShrivastava from '../static/BetaTau/Shreyas Shrivastava.jpg';
+import stephenLee from '../static/BetaTau/Stephen Lee.jpg';
+import yusufYoung from '../static/BetaTau/Yusuf Young.jpg';
 
 module.exports = [
   {
@@ -1200,8 +1234,7 @@ module.exports = [
     classid: "BetaRho",
     name: "Nakul Shenoy",
     bio: "N/A",
-    imgurl:
-      "static/BetaRho/Nakul Shenoy.JPG",
+    imgurl: nakulShenoy,
   },
   {
     classname: "Beta Rho - Class of 2025",
@@ -1216,8 +1249,7 @@ module.exports = [
     classid: "BetaRho",
     name: "Naail Lakhani",
     bio: "N/A",
-    imgurl:
-      "https://zbt-website.s3.amazonaws.com/brothers-beta-rho/Naail+Lakhani.jpeg",
+    imgurl: naailLakhani,
   },
   {
     classname: "Beta Rho - Class of 2025",
@@ -1240,16 +1272,14 @@ module.exports = [
     classid: "BetaRho",
     name: "Brandon Lei",
     bio: "N/A",
-    imgurl:
-      "static/BetaRho/Brandon Lei.jpg",
+    imgurl: brandonLei,
   },
   {
     classname: "Beta Rho - Class of 2025",
     classid: "BetaRho",
     name: "Evan Ren",
     bio: "N/A",
-    imgurl:
-      "static/BetaRho/Evan Ren.jpg",
+    imgurl: evanRen,
   },
   {
     classname: "Beta Rho - Class of 2025",
@@ -1279,239 +1309,209 @@ module.exports = [
     classid: "BetaRho",
     name: "Vittal Thirumalai",
     bio: "Hey! I'm a 2024 from San Jose, CA majoring in 6-3. My hobbies include archery, music (Carnatic style), robotics, and the outdoors. In my free time, I like exploring Boston, playing basketball, partying, getting boba, and chillin with the boys.",
-    imgurl:
-      "static/BetaRho/Vittal Thirumalai.jpg",
+    imgurl: vittalThirumalai,
   },
   {
     classname: "Beta Rho - Class of 2025",
     classid: "BetaRho",
     name: "Vishaal Ram",
     bio: "hi i'm vishaal! i'm a class of 2025 from georgia majoring in 6-9. outside of school, you can catch me on my bike, playing cards, listening to music, or trying new food ",
-    imgurl:
-      "static/BetaRho/Vishaal Ram.jpg",
+    imgurl: vishaalRam,
   },
   {
     classname: "Beta Rho - Class of 2025",
     classid: "BetaRho",
     name: "Eric Liu",
     bio: "N/A",
-    imgurl:
-      "static/BetaRho/Eric Liu.jpg",
+    imgurl: ericLiu,
   },
   {
     classname: "Beta Sigma - Class of 2026",
     classid: "BetaSigma",
     name: "Andrew Diaz",
     bio: "N/A",
-    imgurl:
-      "static/BetaSigma/Andrew Diaz.JPG",
+    imgurl: andrewDiaz,
   },
   {
     classname: "Beta Sigma - Class of 2026",
     classid: "BetaSigma",
     name: "Christian Fletcher",
     bio: "N/A",
-    imgurl:
-      "static/BetaSigma/Christian Fletcher.JPG",
+    imgurl: christianFletcher,
   },
   {
     classname: "Beta Sigma - Class of 2026",
     classid: "BetaSigma",
     name: "Daniel Guan",
     bio: "N/A",
-    imgurl:
-      "static/BetaSigma/Daniel Guan.JPG",
+    imgurl: danielGuan,
   },
   {
     classname: "Beta Sigma - Class of 2026",
     classid: "BetaSigma",
     name: "Daniel Xu",
     bio: "N/A",
-    imgurl:
-      "static/BetaSigma/Daniel Xu.jpg",
+    imgurl: danielXu,
   },
   {
     classname: "Beta Sigma - Class of 2026",
     classid: "BetaSigma",
     name: "Deepu Pradeep",
     bio: "N/A",
-    imgurl:
-      "static/BetaSigma/Deepu Pradeep.JPG",
+    imgurl: deepuPradeep,
   },
   {
     classname: "Beta Sigma - Class of 2026",
     classid: "BetaSigma",
     name: "Frank Liu",
     bio: "N/A",
-    imgurl:
-      "static/BetaSigma/Frank Liu.jpg",
+    imgurl: frankLiu,
   },
   {
     classname: "Beta Sigma - Class of 2026",
     classid: "BetaSigma",
     name: "Greycen Ren",
     bio: "N/A",
-    imgurl:
-      "static/BetaSigma/Greycen Ren.jpg",
+    imgurl: greycenRen,
   },
   {
     classname: "Beta Sigma - Class of 2026",
     classid: "BetaSigma",
     name: "Jeremy Yu",
     bio: "N/A",
-    imgurl:
-      "static/BetaSigma/Jeremy Yu.JPG",
+    imgurl: jeremyYu,
   },
   {
     classname: "Beta Sigma - Class of 2026",
     classid: "BetaSigma",
     name: "Raymond Pan",
     bio: "N/A",
-    imgurl:
-      "static/BetaSigma/Raymond Pan.jpg",
+    imgurl: raymondPan,
   },
   {
     classname: "Beta Sigma - Class of 2026",
     classid: "BetaSigma",
     name: "Richard Chen",
     bio: "N/A",
-    imgurl:
-      "static/BetaSigma/Richard Chen.JPG",
+    imgurl: richardChen,
   },
   {
     classname: "Beta Sigma - Class of 2026",
     classid: "BetaSigma",
     name: "Sunwoo Lee",
     bio: "N/A",
-    imgurl:
-      "static/BetaSigma/Sunwoo Lee.JPG",
+    imgurl: sunwooLee,
   },
   {
     classname: "Beta Sigma - Class of 2026",
     classid: "BetaSigma",
     name: "Veer Gadodia",
     bio: "N/A",
-    imgurl:
-      "static/BetaSigma/Veer Gadodia.jpg",
+    imgurl: veerGadodia,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Adrian Yordanov",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Adrian Yordanov.jpg",
+    imgurl: adrianYordanav,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Advay Goel",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Advay Goel.jpg",
+    imgurl: advayGoel,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Andrew Wen",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Andrew Wen.webp",
+    imgurl: andrewWen,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Benjamin Fan",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Benjamin Fan.jpg",
+    imgurl: benjaminFan,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Brady Cruse",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Brady Cruse.jpg",
+    imgurl: bradyCruse,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Canyon Neyman",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Canyon Neyman.jpg",
+    imgurl: canyonNeyman,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Dylan Yu",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Dylan Yu.jpg",
+    imgurl: dylanYu,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Eddie Qiao",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Eddie Qiao.jpg",
+    imgurl: eddieQiao,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Eli Park",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Eli Park.jpg",
+    imgurl: eliPark,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Jack Breckling",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Jack  Breckling.jpg",
+    imgurl: jackBreckling,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Nai Abbeyquaye",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Nai Abbeyquaye.jpg",
+    imgurl: naiAbbeyquaye,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Pranav Bala",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Pranav Bala.jpg",
+    imgurl: pranavBala,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Shreyas Shrivastava",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Shreyas Shrivastava.jpg",
+    imgurl: shreyasShrivastava,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Stephen Lee",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Stephen Lee.jpg",
+    imgurl: stephenLee,
   },
   {
     classname: "Beta Tau - Class of 2027",
     classid: "BetaTau",
     name: "Yusuf Young",
     bio: "N/A",
-    imgurl:
-      "static/BetaTau/Yusuf Young.webp",
+    imgurl: yusufYoung,
   },
 ];
