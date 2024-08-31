@@ -88,18 +88,27 @@ export default function (props) {
             </Tabs.Panel> */}
           {/* <Tabs.Panel title="βν">
             <ClassGallery classid="BetaNu" onSelect={onSelect} />
+            <Tabs.Panel title="βξ">
+              <ClassGallery classid="BetaXi" onSelect={onSelect} />
+            </Tabs.Panel>
+            <Tabs.Panel title="βο">
+              <ClassGallery classid="BetaOmicron" onSelect={onSelect} />
+            </Tabs.Panel>
+            <Tabs.Panel title="βπ">
+              <ClassGallery classid="BetaPi" onSelect={onSelect} />
+            </Tabs.Panel>
           </Tabs.Panel> */}
-          <Tabs.Panel title="βξ">
-            <ClassGallery classid="BetaXi" onSelect={onSelect} />
-          </Tabs.Panel>
-          <Tabs.Panel title="βο">
-            <ClassGallery classid="BetaOmicron" onSelect={onSelect} />
-          </Tabs.Panel>
           <Tabs.Panel title="βπ">
             <ClassGallery classid="BetaPi" onSelect={onSelect} />
           </Tabs.Panel>
           <Tabs.Panel title="βρ">
             <ClassGallery classid="BetaRho" onSelect={onSelect} />
+          </Tabs.Panel>
+          <Tabs.Panel title="βσ">
+            <ClassGallery classid="BetaSigma" onSelect={onSelect} />
+          </Tabs.Panel>
+          <Tabs.Panel title="βτ">
+            <ClassGallery classid="BetaTau" onSelect={onSelect} />
           </Tabs.Panel>
         </Tabs>
         <BrotherPane

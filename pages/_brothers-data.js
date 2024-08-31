@@ -1195,18 +1195,10 @@ module.exports = [
   {
     classname: "Beta Rho - Class of 2025",
     classid: "BetaRho",
-    name: "Aron Qiu",
-    bio: "N/A",
-    imgurl:
-      "https://zbt-website.s3.amazonaws.com/brothers-beta-rho/Feng+Qiu.jpeg",
-  },
-  {
-    classname: "Beta Rho - Class of 2025",
-    classid: "BetaRho",
     name: "Nakul Shenoy",
     bio: "N/A",
     imgurl:
-      "https://zbt-website.s3.amazonaws.com/brothers-beta-rho/Nakul+Shenoy.jpeg",
+      "static/BetaRho/Nakul Shenoy.JPG",
   },
   {
     classname: "Beta Rho - Class of 2025",
@@ -1246,15 +1238,15 @@ module.exports = [
     name: "Brandon Lei",
     bio: "N/A",
     imgurl:
-      "https://zbt-website.s3.amazonaws.com/brothers-beta-rho/Brandon+Lei.jpeg",
+      "static/BetaRho/Brandon Lei.jpg",
   },
   {
     classname: "Beta Rho - Class of 2025",
     classid: "BetaRho",
     name: "Evan Ren",
-    bio: "Hi! I’m Evan and I don’t like writing bios. Talk to me about music tho :^)",
+    bio: "N/A",
     imgurl:
-      "https://zbt-website.s3.amazonaws.com/brothers-beta-rho/Evan+Ren.jpeg",
+      "static/BetaRho/Evan Ren.jpg",
   },
   {
     classname: "Beta Rho - Class of 2025",
@@ -1262,7 +1254,7 @@ module.exports = [
     name: "Alvin Chen",
     bio: "Hello!",
     imgurl:
-      "https://zbt-website.s3.amazonaws.com/brothers-beta-rho/Alvin+Chen.jpeg",
+      "static/BetaRho/Alvin Chen.jpg",
   },
   {
     classname: "Beta Rho - Class of 2025",
@@ -1283,18 +1275,10 @@ module.exports = [
   {
     classname: "Beta Rho - Class of 2025",
     classid: "BetaRho",
-    name: "Jonathan Zhang",
-    bio: "Yo I’m johnny from nyc nice to meet you! My hobbys include basketball, volleyball, and the MIT Logarhythms",
-    imgurl:
-      "https://zbt-website.s3.amazonaws.com/brothers-beta-rho/Jonathan+Zhang.jpeg",
-  },
-  {
-    classname: "Beta Rho - Class of 2025",
-    classid: "BetaRho",
     name: "Vittal Thirumalai",
     bio: "Hey! I'm a 2024 from San Jose, CA majoring in 6-3. My hobbies include archery, music (Carnatic style), robotics, and the outdoors. In my free time, I like exploring Boston, playing basketball, partying, getting boba, and chillin with the boys.",
     imgurl:
-      "https://zbt-website.s3.amazonaws.com/brothers-beta-rho/Vittal+Thirumalai.jpeg",
+      "static/BetaRho/Vittal Thirumalai.jpg",
   },
   {
     classname: "Beta Rho - Class of 2025",
@@ -1302,7 +1286,7 @@ module.exports = [
     name: "Vishaal Ram",
     bio: "hi i'm vishaal! i'm a class of 2025 from georgia majoring in 6-9. outside of school, you can catch me on my bike, playing cards, listening to music, or trying new food ",
     imgurl:
-      "https://zbt-website.s3.amazonaws.com/brothers-beta-rho/Vishaal+Ram.jpeg",
+      "static/BetaRho/Vishaal Ram.jpg",
   },
   {
     classname: "Beta Rho - Class of 2025",
@@ -1310,6 +1294,222 @@ module.exports = [
     name: "Eric Liu",
     bio: "N/A",
     imgurl:
-      "https://zbt-website.s3.amazonaws.com/brothers-beta-rho/Eric+Liu.jpeg",
+      "static/BetaRho/Eric Liu.jpg",
+  },
+  {
+    classname: "Beta Sigma - Class of 2026",
+    classid: "BetaSigma",
+    name: "Andrew Diaz",
+    bio: "N/A",
+    imgurl:
+      "static/BetaSigma/Andrew Diaz.JPG",
+  },
+  {
+    classname: "Beta Sigma - Class of 2026",
+    classid: "BetaSigma",
+    name: "Christian Fletcher",
+    bio: "N/A",
+    imgurl:
+      "static/BetaSigma/Christian Fletcher.JPG",
+  },
+  {
+    classname: "Beta Sigma - Class of 2026",
+    classid: "BetaSigma",
+    name: "Daniel Guan",
+    bio: "N/A",
+    imgurl:
+      "static/BetaSigma/Daniel Guan.JPG",
+  },
+  {
+    classname: "Beta Sigma - Class of 2026",
+    classid: "BetaSigma",
+    name: "Daniel Xu",
+    bio: "N/A",
+    imgurl:
+      "static/BetaSigma/Daniel Xu.jpg",
+  },
+  {
+    classname: "Beta Sigma - Class of 2026",
+    classid: "BetaSigma",
+    name: "Deepu Pradeep",
+    bio: "N/A",
+    imgurl:
+      "static/BetaSigma/Deepu Pradeep.JPG",
+  },
+  {
+    classname: "Beta Sigma - Class of 2026",
+    classid: "BetaSigma",
+    name: "Frank Liu",
+    bio: "N/A",
+    imgurl:
+      "static/BetaSigma/Frank Liu.jpg",
+  },
+  {
+    classname: "Beta Sigma - Class of 2026",
+    classid: "BetaSigma",
+    name: "Greycen Ren",
+    bio: "N/A",
+    imgurl:
+      "static/BetaSigma/Greycen Ren.jpg",
+  },
+  {
+    classname: "Beta Sigma - Class of 2026",
+    classid: "BetaSigma",
+    name: "Jeremy Yu",
+    bio: "N/A",
+    imgurl:
+      "static/BetaSigma/Jeremy Yu.JPG",
+  },
+  {
+    classname: "Beta Sigma - Class of 2026",
+    classid: "BetaSigma",
+    name: "Raymond Pan",
+    bio: "N/A",
+    imgurl:
+      "static/BetaSigma/Raymond Pan.jpg",
+  },
+  {
+    classname: "Beta Sigma - Class of 2026",
+    classid: "BetaSigma",
+    name: "Richard Chen",
+    bio: "N/A",
+    imgurl:
+      "static/BetaSigma/Richard Chen.JPG",
+  },
+  {
+    classname: "Beta Sigma - Class of 2026",
+    classid: "BetaSigma",
+    name: "Sunwoo Lee",
+    bio: "N/A",
+    imgurl:
+      "static/BetaSigma/Sunwoo Lee.JPG",
+  },
+  {
+    classname: "Beta Sigma - Class of 2026",
+    classid: "BetaSigma",
+    name: "Veer Gadodia",
+    bio: "N/A",
+    imgurl:
+      "static/BetaSigma/Veer Gadodia.jpg",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Adrian Yordanov",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Adrian Yordanov.jpg",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Advay Goel",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Advay Goel.jpg",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Andrew Wen",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Andrew Wen.webp",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Benjamin Fan",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Benjamin Fan.jpg",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Brady Cruse",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Brady Cruse.jpg",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Canyon Neyman",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Canyon Neyman.jpg",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Dylan Yu",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Dylan Yu.jpg",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Eddie Qiao",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Eddie Qiao.jpg",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Eli Park",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Eli Park.jpg",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Jack Breckling",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Jack  Breckling.jpg",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Nai Abbeyquaye",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Nai Abbeyquaye.jpg",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Pranav Bala",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Pranav Bala.jpg",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Shreyas Shrivastava",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Shreyas Shrivastava.jpg",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Stephen Lee",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Stephen Lee.jpg",
+  },
+  {
+    classname: "Beta Tau - Class of 2027",
+    classid: "BetaTau",
+    name: "Yusuf Young",
+    bio: "N/A",
+    imgurl:
+      "static/BetaTau/Yusuf Young.webp",
   },
 ];
