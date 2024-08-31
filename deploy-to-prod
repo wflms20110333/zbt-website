@@ -15,4 +15,3 @@ npm run-script build
 echo "Uploading to Athena Locker..."
 read -p "Kerberos Username: " kerb
 scp -r public/* $kerb@athena.dialup.mit.edu:/mit/zbt/web_scripts/
-

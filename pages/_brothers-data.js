@@ -1,3 +1,6 @@
+import alvinChen from '../static/BetaRho/Alvin Chen.jpg';
+
+
 module.exports = [
   {
     classname: "Beta Theta - Class of 2016",
@@ -1253,8 +1256,7 @@ module.exports = [
     classid: "BetaRho",
     name: "Alvin Chen",
     bio: "Hello!",
-    imgurl:
-      "static/BetaRho/Alvin Chen.jpg",
+    imgurl: alvinChen,
   },
   {
     classname: "Beta Rho - Class of 2025",
