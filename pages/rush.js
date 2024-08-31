@@ -31,7 +31,7 @@ export default function ({}) {
       <div>
         <Splash id="rush" imageUrl={CoverImg}></Splash>
         <div className="contents typography">
-          <h1>Rush ZBT this fall! (2023)</h1>
+          <h1>Rush ZBT this fall! (2024)</h1>
           <WithBoringTextOnSide>
             <Schedule />
           </WithBoringTextOnSide>
